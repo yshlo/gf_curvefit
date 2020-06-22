@@ -7,4 +7,4 @@ Example data:
 
 > python main.py
  
-![Result](/figure_gf.png, "Result")
+![Result](/figure_gf.png "Result")
